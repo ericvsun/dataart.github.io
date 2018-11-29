@@ -1,2 +1,2 @@
 # dataart.github.io
-to learn 
+A gathering notepad for data art.
